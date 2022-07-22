@@ -1,0 +1,9 @@
+Accept Current Change
+Accept Incoming Change
+Accept Both Changes
+Compare Changes
+
+1 - Accept Both Changes
+2 - Add
+3 - Commit
+4 - Push
